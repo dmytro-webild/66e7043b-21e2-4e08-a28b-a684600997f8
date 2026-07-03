@@ -7,6 +7,9 @@ import HeroCenteredLogos from '@/components/sections/hero/HeroCenteredLogos';
 import TestimonialRatingCards from '@/components/sections/testimonial/TestimonialRatingCards';
 import SectionErrorBoundary from "@/components/ui/SectionErrorBoundary";
 
+
+{/* webild-stub @2026-07-03T23:12:15.552Z: Add a new page called "Shop". On this page, add a section titled "Our Collection" in large bold text. Below the title, embed an iframe using the provided Airtable source link with full width and 800px height. Ensure the background of this s */}
+
 export default function HomePage() {
   return (
     <>
